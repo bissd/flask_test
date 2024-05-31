@@ -1,0 +1,7 @@
+db:
+  mysql:
+    user: root  
+    password: Admin@123 # 注意转义
+    host: localhost
+    port: 3306
+    dbname: aigc
